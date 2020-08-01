@@ -1,0 +1,11 @@
+.footer__column-link {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+  text-decoration: none;
+}
+  
+.footer__column-link:hover {
+  outline: 3px solid #2f80ed;
+}
