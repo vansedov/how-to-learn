@@ -4,6 +4,7 @@
   line-height: 25px;
   font-size: 18px;
   text-decoration: none;
+  z-index: 2;
 }
 
 .header__link:hover {
